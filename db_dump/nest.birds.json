@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "664e1ff09905b9d3774515c0"
+  },
+  "name": "Albatros",
+  "origin": "Southern Ocean",
+  "species": "Diomedeidae",
+  "family": "Diomedeidae",
+  "imgsrc": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/116459651/900",
+  "habitat": "Oceanic Regions",
+  "diet": "Carnivore",
+  "description": "Albatrosses are large seabirds known for their long wingspans and impressive gliding abilities.",
+  "wingspan_cm": 340,
+  "weight_kg": 8.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e20199905b9d3774515c2"
+  },
+  "name": "Flamingo",
+  "origin": "Africa, Americas",
+  "species": "Phoenicopteridae",
+  "family": "Phoenicopteridae",
+  "imgsrc": "https://www.marylandzoo.org/wp-content/uploads/2017/10/flamingo-1024x683.jpg",
+  "habitat": "Saltwater and Brackish Lakes",
+  "diet": "Omnivore",
+  "description": "Flamingos are large wading birds known for their vibrant pink plumage and distinctive hooked bills.",
+  "wingspan_cm": 150,
+  "weight_kg": 2.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e20259905b9d3774515c4"
+  },
+  "name": "Hummingbird",
+  "origin": "Americas",
+  "species": "Trochilidae",
+  "family": "Trochilidae",
+  "imgsrc": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2021/08/082521_cw_hummingbird_feat.jpg",
+  "habitat": "Tropical and Subtropical Regions",
+  "diet": "Nectar and Insects",
+  "description": "Hummingbirds are small, colorful birds known for their rapid wing beats and hovering abilities.",
+  "wingspan_cm": 13,
+  "weight_kg": 0.0025,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e20319905b9d3774515c6"
+  },
+  "name": "Penguin",
+  "origin": "Antarctic Region",
+  "species": "Spheniscidae",
+  "family": "Spheniscidae",
+  "imgsrc": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKIWgaiJUtss/v2/-1x-1.jpg",
+  "habitat": "Antarctica",
+  "diet": "Carnivore",
+  "description": "Penguins are flightless birds known for their distinctive black and white plumage.",
+  "wingspan_cm": 100,
+  "weight_kg": 25,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e203c9905b9d3774515c8"
+  },
+  "name": "Snowy Owl",
+  "origin": "Arctic Region",
+  "species": "Bubo scandiacus",
+  "family": "Strigidae",
+  "imgsrc": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Snowy_Owl_%28240866707%29.jpeg",
+  "habitat": "Arctic Tundra",
+  "diet": "Carnivore",
+  "description": "Snowy owls are large, white owls known for their excellent hunting skills in snowy environments.",
+  "wingspan_cm": 150,
+  "weight_kg": 2.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e20a39905b9d3774515ce"
+  },
+  "name": "Blue Jay",
+  "origin": "North America",
+  "species": "Cyanocitta cristata",
+  "family": "Corvidae",
+  "imgsrc": "https://media.audubon.org/nas_birdapi_hero/sfw_fixed_01-29-2011-223.jpg",
+  "habitat": "Forests and Woodlands",
+  "diet": "Omnivore",
+  "description": "The blue jay is a strikingly beautiful bird with its blue and white plumage, known for its intelligence and raucous calls.",
+  "wingspan_cm": 40,
+  "weight_kg": 0.1,
+  "__v": 0
+}]

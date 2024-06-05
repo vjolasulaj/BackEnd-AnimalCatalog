@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "664ddf5dcaaceb1a773109aa"
+  },
+  "name": "Golden Retriever",
+  "origin": "Scotland",
+  "temperament": "Intelligent, Friendly, Devoted",
+  "colors": [
+    "Golden",
+    "Cream"
+  ],
+  "imgsrc": "https://nativepet.com/cdn/shop/articles/Golden_Retriever_in_a_Field_x1000.jpg",
+  "description": "The Golden Retriever is a friendly and intelligent breed known for its gentle nature and love for people. They are great family pets and excel in various roles, including as guide dogs, therapy dogs, and search and rescue dogs.",
+  "breed_group": "Sporting",
+  "size": "Large",
+  "lifespan": "10-12 years",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ddf6fcaaceb1a773109ac"
+  },
+  "name": "German Shepherd",
+  "origin": "Germany",
+  "temperament": "Loyal, Confident, Courageous",
+  "colors": [
+    "Black",
+    "Tan",
+    "Sable"
+  ],
+  "imgsrc": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTk2NzIzMTQ2NzMxMTAzMjUw/11-dogs-like-german-shepherd.png",
+  "description": "The German Shepherd is a versatile and intelligent breed, often used in police and military roles for their outstanding abilities in tracking, obedience, and protection. They are loyal and protective of their families and are also popular as working dogs and loyal companions.",
+  "breed_group": "Herding",
+  "size": "Large",
+  "lifespan": "9-13 years",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ddf92caaceb1a773109af"
+  },
+  "name": "Dalmatian",
+  "origin": "Croatia",
+  "temperament": "Outgoing, Playful, Energetic",
+  "colors": [
+    "White",
+    "Black Spots"
+  ],
+  "imgsrc": "https://www.dogster.com/wp-content/uploads/2024/03/Dalmatian-puppy-standing-on-the-grass_Annette-Kurka_Shutterstock.jpeg",
+  "description": "The Dalmatian is a distinctive and energetic breed known for its unique black spots on a white coat. They are known for their endurance and make great running and outdoor companions.",
+  "breed_group": "Non-Sporting",
+  "size": "Medium",
+  "lifespan": "10-13 years",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ddfb1caaceb1a773109b1"
+  },
+  "name": "Dachshund",
+  "origin": "Germany",
+  "temperament": "Clever, Devoted, Playful",
+  "colors": [
+    "Red",
+    "Black",
+    "Chocolate",
+    "Cream"
+  ],
+  "imgsrc": "https://chasingtails.store/cdn/shop/articles/dapple_dachshund_1000x.jpg",
+  "description": "The Dachshund, also known as the Wiener Dog, is a small and long-bodied breed. They are clever and curious dogs with a playful personality. Dachshunds are excellent hunters and make loving companions.",
+  "breed_group": "Hound",
+  "size": "Small",
+  "lifespan": "12-16 years",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664de2137feba281b8ac94c8"
+  },
+  "name": "Beagle",
+  "origin": "United Kingdom",
+  "temperament": "Friendly, Curious, Merry",
+  "colors": [
+    "Tri-color",
+    "Tan and White"
+  ],
+  "imgsrc": "https://cdn-ghckb.nitrocdn.com/ywsRCaHzPZOrRGmIQthcAKzblzYFHUKW/assets/images/optimized/rev-d3835d7/blog.myollie.com/wp-content/uploads/2020/02/beagle-puppy-running-through-a-yard-with-a-ball-in-his-mouth.jpg",
+  "description": "The Beagle is a friendly and curious breed known for its keen sense of smell. They are often used in scent detection roles and are great family pets due to their playful and affectionate nature.",
+  "breed_group": "Hound",
+  "size": "Small to Medium",
+  "lifespan": "12-15 years",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665c581bc41f851112183a7a"
+  },
+  "name": "Pomeranian",
+  "origin": "Germany",
+  "temperament": "Playful, Intelligent, Extroverted",
+  "colors": [
+    "Orange, Black, White, Cream, Blue, Brown"
+  ],
+  "imgsrc": "https://media-be.chewy.com/wp-content/uploads/2021/06/02102132/Pomeranian_Featured-Image.jpg",
+  "description": "The Pomeranian is a small toy breed known for its playful and extroverted nature. They are intelligent dogs with a thick double coat. Pomeranians are often referred to as and are popular companion dogs.",
+  "breed_group": "Toy",
+  "size": "Small",
+  "lifespan": "12-16 years",
+  "__v": 0
+}]
