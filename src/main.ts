@@ -7,6 +7,7 @@ async function bootstrap() {
       origin: 'http://localhost:5173',
     },
   });
+  console.log({ x: process.env.DB_CONN_STRING });
   await app.listen(3000);
 }
 bootstrap();
